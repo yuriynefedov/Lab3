@@ -6,7 +6,7 @@ Twitter Friend Mapper is an open-source Python web application hosted on [python
 
 ## Accesing the app
 
-Use this link to access the app: [yuriynefedov2.pythonanywhere.com](https://www.yuriynefedov2.pythonanywhere.com). No key or password is needed.
+Use this link to access the app: [yuriynefedov2.pythonanywhere.com](https://yuriynefedov2.pythonanywhere.com). No key or password is needed.
 
 ## Usage
 
