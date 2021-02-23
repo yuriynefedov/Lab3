@@ -1,0 +1,41 @@
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+/*.whitespace {*/
+/*    min-width: 500px;*/
+/*    min-height: 500px;*/
+/*    background-color: rgb(255,255,255);*/
+/*}*/
+
+input[type=text] {
+    font-size: 30px;
+    text-align: center;
+}
+
+.input_div {
+      align: center;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+input[type=submit] {
+    width: 200px;
+    height: 100px;
+    /* font-size: 500px; */
+    position: relative;
+    top: 50%;
+    left: 22.5%;
+}
+
+body {
+  background-image: url('bg2.png');
+}
