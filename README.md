@@ -2,7 +2,7 @@
 
 Twitter Friend Mapper is an open-source Python web application hosted on [pythonanywhere.com](https://www.pythonanywhere.com). It allows you to access any Twitter user's follow list and display up to 100 of its members on the world map.
 
-Note: the repository also contains another file for plain browsing through a JSON file returned by the API. Access it at [task2.py](task2.py)
+Note: the repository also contains another file for plain browsing through a JSON file returned by the API. Access it at [task2.py](task2.py).
 
 ![alt text](screenshot.png)
 
